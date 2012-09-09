@@ -1,0 +1,21 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.thingsLearnt {
+  width: 80%
+}
+
+h3 {
+  border: 1px solid black;
+  background-color: #dcdcdc;
+  border-radius: 15px;
+  padding: 1%;
+}
+
+h3:hover {
+  background-color: #fffff0;
+}
+
+p {
+  background-color: olive;
+}
